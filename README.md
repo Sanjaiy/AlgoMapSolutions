@@ -27,6 +27,8 @@ The repository is organized as follows:
 ```plaintext
 .
 ├── Array & Strings/
-│   ├── LongestCommonPrefix.go
-│   └── MergeIntervals.go
+│   ├── Longest Common Prefix
+│       ├── main.go
+│   └── Merge Intervals
+│       ├── main.go
 ├── README.md
